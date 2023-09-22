@@ -1,0 +1,8 @@
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\bin\Debug\buoi1-3.exe.config
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\bin\Debug\buoi1-3.exe
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\bin\Debug\buoi1-3.pdb
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\obj\Debug\buoi1-3.csproj.AssemblyReference.cache
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\obj\Debug\buoi1-3.csproj.SuggestedBindingRedirects.cache
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\obj\Debug\buoi1-3.csproj.CoreCompileInputs.cache
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\obj\Debug\buoi1-3.exe
+C:\learnspace\C#\Bt-1\CaoXuantung_2121110078\buoi1-3\obj\Debug\buoi1-3.pdb
