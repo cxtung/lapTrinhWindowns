@@ -1,0 +1,11 @@
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.csproj.AssemblyReference.cache
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.csproj.SuggestedBindingRedirects.cache
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai_1.Form1.resources
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai_1.Properties.Resources.resources
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.csproj.GenerateResource.cache
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.csproj.CoreCompileInputs.cache
+C:\learnspace\C#\CaoTung\Bai-1\bin\Debug\Bai-1.exe.config
+C:\learnspace\C#\CaoTung\Bai-1\bin\Debug\Bai-1.exe
+C:\learnspace\C#\CaoTung\Bai-1\bin\Debug\Bai-1.pdb
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.exe
+C:\learnspace\C#\CaoTung\Bai-1\obj\Debug\Bai-1.pdb
