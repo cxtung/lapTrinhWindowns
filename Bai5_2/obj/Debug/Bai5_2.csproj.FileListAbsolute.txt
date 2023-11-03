@@ -1,0 +1,10 @@
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.csproj.AssemblyReference.cache
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.Form1.resources
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.Properties.Resources.resources
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.csproj.GenerateResource.cache
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.csproj.CoreCompileInputs.cache
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\bin\Debug\Bai5_2.exe.config
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\bin\Debug\Bai5_2.exe
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\bin\Debug\Bai5_2.pdb
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.exe
+D:\Lap_trinh(IT)\C#\VMH_WinForm\Bai5_2\obj\Debug\Bai5_2.pdb
