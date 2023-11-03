@@ -1,0 +1,14 @@
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.csproj.AssemblyReference.cache
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.frmMain.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.frmSP.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.Properties.Resources.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.csproj.GenerateResource.cache
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.csproj.CoreCompileInputs.cache
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\bin\Debug\Bai6_2.exe.config
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\bin\Debug\Bai6_2.exe
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\bin\Debug\Bai6_2.pdb
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.frmCTDH.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.frmDH.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.frmLoaiSP.resources
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.exe
+D:\Lap_trinh(IT)\C#\Vuminhhieu\Bai6_2\obj\Debug\Bai6_2.pdb
